@@ -1,0 +1,19 @@
+
+body {
+  background-image: url('./images/background.jpg');
+  /*background-color: #a1e0df;*/
+  background-size: 100%;
+}
+
+.google-signin {
+
+}
+.google-signin button{
+  width: 250px !important;
+  height: 60px !important;
+  background: url('./images/google-signin.png') no-repeat !important;
+  background-position: center;
+  background-size: cover !important;
+  cursor: pointer;
+  border: none;
+}
